@@ -41,7 +41,7 @@ export default function Testimonials() {
                   <div className="flex flex-col items-center gap-3">
                     <div className=""></div>
                     <QuoteIcon style={{ transform: 'rotate(180deg)' }} />
-                    <h4 className="text-xl font-medium leading-9">{card.text}</h4>
+                    <h4 className="text-xl font-medium leading-8">{card.text}</h4>
                     <QuoteIcon />
                   </div>
 

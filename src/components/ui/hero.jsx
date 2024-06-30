@@ -25,9 +25,9 @@ export default function Hero() {
               <span className="block pt-5">Meet Andrew Perkins</span>
             </h2>
 
-            <p data-aos={'fade-right'} className="text-gray-300 text-xl leading-9">
+            <p data-aos={'fade-right'} className="text-gray-300 text-xl leading-8">
               A professional Data Analyst with past experience working as an assistant editor at
-              Tuts+ and I am very passionate about the Web, PHP, Ruby, Rails, JavaScript, and web
+              Tuts+. I am very passionate about the Web, PHP, Ruby, Rails, JavaScript, and web
               frameworks in general.
             </p>
 

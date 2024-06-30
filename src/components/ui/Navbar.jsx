@@ -32,7 +32,7 @@ export default function Navbar() {
             <Link
               className={`${
                 currentRoute === link.href ? 'active-link' : 'non-active-link'
-              } uppercase text-white hover:border-b-2 border-[#0CA900] h-[30px] max-w-max group transition duration-500 ease-in-out`}
+              } text-sm uppercase text-white hover:border-b-2 border-[#0CA900] h-[30px] max-w-max group transition duration-500 ease-in-out`}
               key={index}
               href={link?.href}
             >
