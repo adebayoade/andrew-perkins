@@ -50,7 +50,7 @@ export default function GetInTouch() {
   };
 
   return (
-    <div data-aos={'fade-up'} id="hire-me" className="pt-14 hire-me">
+    <div data-aos={'fade-up'} id="hire-me" className="pt-20 hire-me">
       <div className="container">
         <h2 className="text-center mb-10 heading">Get In Touch</h2>
         <div className="mt-14 grid grid-cols-1 gap-20 justify-between md:max-w-[900px] mx-auto">

@@ -11,7 +11,7 @@ import { description, googleAnalyticsTrackingID, keywords, siteTitle } from '@/c
 
 export const metadata = {
   title: siteTitle,
-description: description,
+  description: description,
   keywords: keywords,
 };
 
@@ -19,8 +19,8 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <body>
-        {googleAnalyticsTrackingID && (
-          <GoogleAnalytics googleAnalyticsTrackingID={googleAnalyticsTrackingID} />
+        {process.env.NEXT_PUBLIC_GA_TRACKING_ID && (
+          <GoogleAnalytics NEXT_PUBLIC_GA_TRACKING_ID={process.env.NEXT_PUBLIC_GA_TRACKING_ID} />
         )}
 
         <TopLoader />
