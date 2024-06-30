@@ -14,7 +14,7 @@ export default function AboutMe() {
     <div id="about" className="pt-14">
       <div data-aos={'fade-up'} className="container">
         <h2 className="heading text-center">About Me</h2>
-        <div className="mt-14 max-w-[1200px] mx-auto text-center text-lg leading-9">
+        <div className="mt-14 max-w-[1200px] mx-auto text-center text-md leading-9">
           <div className="flex flex-col gap-7">
             <p className="text-gray-500">
               I consider myself a versatile Data Analyst with experience interpreting and analyzing

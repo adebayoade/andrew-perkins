@@ -16,8 +16,8 @@ export default function SuperPowers() {
         <div className="mt-14 grid grid-cols-1 xl:grid-cols-3 gap-10 justify-between">
           <div className="shadow-md bg-white px-10 pt-16 pb-20 rounded">
             <div className="flex flex-col gap-7 text-center">
-              <h2 className="text-2xl font-semibold">Data Analytics</h2>
-              <p className="text-gray-400 text-lg leading-9">
+              <h2 className="text-xl font-semibold">Data Analytics</h2>
+              <p className="text-gray-400 text-md leading-9">
                 Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ut ipsum corporis
                 blanditiis. Dicta quibusdam dolor vero neque reprehenderit suscipit velit?
               </p>
@@ -26,8 +26,8 @@ export default function SuperPowers() {
 
           <div className="shadow-md bg-white px-10 pt-16 pb-20 rounded">
             <div className="flex flex-col gap-7 text-center">
-              <h2 className="text-2xl font-semibold">Web Development</h2>
-              <p className="text-gray-400 text-lg leading-9">
+              <h2 className="text-xl font-semibold">Web Development</h2>
+              <p className="text-gray-400 text-md leading-9">
                 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor libero delectus
                 voluptatem asperiores. Laborum recusandae autem quasi?
               </p>
@@ -36,8 +36,8 @@ export default function SuperPowers() {
 
           <div className="shadow-md bg-white px-10 pt-16 pb-20 rounded">
             <div className="flex flex-col gap-7 text-center">
-              <h2 className="text-2xl font-semibold">Consultancy</h2>
-              <p className="text-gray-400 text-lg leading-9">
+              <h2 className="text-xl font-semibold">Consultancy</h2>
+              <p className="text-gray-400 text-md leading-9">
                 Lorem ipsum dolor sit, amet consectetur adipisicing elit. Atque voluptatem nulla
                 explicabo dolorum, ipsum perferendis aut ea pariatur, voluptate omnis error,
                 provident iste similique amet?
